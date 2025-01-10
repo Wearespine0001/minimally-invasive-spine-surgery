@@ -4,6 +4,8 @@
 [Minimally Invasive Spine Surgery (MISS)](https://wearespine.in/minimally-invasive-spine-surgery/) represents a significant advancement in spine care. This modern surgical approach treats spine conditions with minimal disruption to surrounding muscles and tissues. Utilizing small incisions, specialized instruments, and advanced imaging technology, MISS offers a safer and more efficient alternative to traditional open surgeries.
 
 ---
+![Minimally Invasive Spine Surgery](https://wearespine.in/wp-content/uploads/2024/12/MISS-600x523.jpeg)  
+
 
 ## Key Advantages of MISS
 
